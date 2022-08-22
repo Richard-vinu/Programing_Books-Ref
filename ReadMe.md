@@ -23,5 +23,3 @@
 <img src="https://img.shields.io/badge/DSA-ff0b0b?logo=graphql&logoColor=ff0b0b"/>
 </a>
 </p>
-
-
