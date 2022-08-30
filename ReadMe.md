@@ -22,4 +22,5 @@
 <a href="https://github.com/ValentineFernandes/programming-books-or-references/tree/main/DSA">
 <img src="https://img.shields.io/badge/DSA-ff0b0b?logo=graphql&logoColor=ff0b0b"/>
 </a>
+  <img src="https://camo.githubusercontent.com/c26df6d372790e9f24d7e16d2cfa16a142985109b237bbc0f482c47a717019fe/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e66736d2e706e67">
 </p>
